@@ -1,0 +1,141 @@
+Mohammad is being pushed into stack
+Top: (dummy, Mohammad) -->
+
+Diego is being pushed into stack
+Top: (dummy, Diego) -->(Diego, Mohammad) -->
+
+Daniel is being pushed into stack
+Top: (dummy, Daniel) -->(Daniel, Diego) -->(Diego, Mohammad) -->
+
+Alex is being pushed into stack
+Top: (dummy, Alex) -->(Alex, Daniel) -->(Daniel, Diego) -->(Diego, Mohammad) -->
+
+AlAmin is being pushed into stack
+Top: (dummy, AlAmin) -->(AlAmin, Alex) -->(Alex, Daniel) -->(Daniel, Diego) -->(Diego, Mohammad) -->
+
+Cole is being pushed into stack
+Top: (dummy, Cole) -->(Cole, AlAmin) -->(AlAmin, Alex) -->(Alex, Daniel) -->(Daniel, Diego) -->(Diego, Mohammad) -->
+
+Jia is being pushed into stack
+Top: (dummy, Jia) -->(Jia, Cole) -->(Cole, AlAmin) -->(AlAmin, Alex) -->(Alex, Daniel) -->(Daniel, Diego) -->(Diego, Mohammad) -->
+
+Jia is being popped from Stack
+Top: (dummy, Cole) -->(Cole, AlAmin) -->(AlAmin, Alex) -->(Alex, Daniel) -->(Daniel, Diego) -->(Diego, Mohammad) -->
+
+Jesse is being pushed into stack
+Top: (dummy, Jesse) -->(Jesse, Cole) -->(Cole, AlAmin) -->(AlAmin, Alex) -->(Alex, Daniel) -->(Daniel, Diego) -->(Diego, Mohammad) -->
+
+Jesse is being popped from Stack
+Top: (dummy, Cole) -->(Cole, AlAmin) -->(AlAmin, Alex) -->(Alex, Daniel) -->(Daniel, Diego) -->(Diego, Mohammad) -->
+
+Asadbek is being pushed into stack
+Top: (dummy, Asadbek) -->(Asadbek, Cole) -->(Cole, AlAmin) -->(AlAmin, Alex) -->(Alex, Daniel) -->(Daniel, Diego) -->(Diego, Mohammad) -->
+
+Asadbek is being popped from Stack
+Top: (dummy, Cole) -->(Cole, AlAmin) -->(AlAmin, Alex) -->(Alex, Daniel) -->(Daniel, Diego) -->(Diego, Mohammad) -->
+
+Ryan is being pushed into stack
+Top: (dummy, Ryan) -->(Ryan, Cole) -->(Cole, AlAmin) -->(AlAmin, Alex) -->(Alex, Daniel) -->(Daniel, Diego) -->(Diego, Mohammad) -->
+
+Tsering is being pushed into stack
+Top: (dummy, Tsering) -->(Tsering, Ryan) -->(Ryan, Cole) -->(Cole, AlAmin) -->(AlAmin, Alex) -->(Alex, Daniel) -->(Daniel, Diego) -->(Diego, Mohammad) -->
+
+Tsering is being popped from Stack
+Top: (dummy, Ryan) -->(Ryan, Cole) -->(Cole, AlAmin) -->(AlAmin, Alex) -->(Alex, Daniel) -->(Daniel, Diego) -->(Diego, Mohammad) -->
+
+Ryan is being popped from Stack
+Top: (dummy, Cole) -->(Cole, AlAmin) -->(AlAmin, Alex) -->(Alex, Daniel) -->(Daniel, Diego) -->(Diego, Mohammad) -->
+
+Cole is being popped from Stack
+Top: (dummy, AlAmin) -->(AlAmin, Alex) -->(Alex, Daniel) -->(Daniel, Diego) -->(Diego, Mohammad) -->
+
+AlAmin is being popped from Stack
+Top: (dummy, Alex) -->(Alex, Daniel) -->(Daniel, Diego) -->(Diego, Mohammad) -->
+
+Alex is being popped from Stack
+Top: (dummy, Daniel) -->(Daniel, Diego) -->(Diego, Mohammad) -->
+
+Aniss is being pushed into stack
+Top: (dummy, Aniss) -->(Aniss, Daniel) -->(Daniel, Diego) -->(Diego, Mohammad) -->
+
+Erik is being pushed into stack
+Top: (dummy, Erik) -->(Erik, Aniss) -->(Aniss, Daniel) -->(Daniel, Diego) -->(Diego, Mohammad) -->
+
+Kevin is being pushed into stack
+Top: (dummy, Kevin) -->(Kevin, Erik) -->(Erik, Aniss) -->(Aniss, Daniel) -->(Daniel, Diego) -->(Diego, Mohammad) -->
+
+Arben is being pushed into stack
+Top: (dummy, Arben) -->(Arben, Kevin) -->(Kevin, Erik) -->(Erik, Aniss) -->(Aniss, Daniel) -->(Daniel, Diego) -->(Diego, Mohammad) -->
+
+David is being pushed into stack
+Top: (dummy, David) -->(David, Arben) -->(Arben, Kevin) -->(Kevin, Erik) -->(Erik, Aniss) -->(Aniss, Daniel) -->(Daniel, Diego) -->(Diego, Mohammad) -->
+
+David is being popped from Stack
+Top: (dummy, Arben) -->(Arben, Kevin) -->(Kevin, Erik) -->(Erik, Aniss) -->(Aniss, Daniel) -->(Daniel, Diego) -->(Diego, Mohammad) -->
+
+Arben is being popped from Stack
+Top: (dummy, Kevin) -->(Kevin, Erik) -->(Erik, Aniss) -->(Aniss, Daniel) -->(Daniel, Diego) -->(Diego, Mohammad) -->
+
+Hengtuo is being pushed into stack
+Top: (dummy, Hengtuo) -->(Hengtuo, Kevin) -->(Kevin, Erik) -->(Erik, Aniss) -->(Aniss, Daniel) -->(Daniel, Diego) -->(Diego, Mohammad) -->
+
+Siliang is being pushed into stack
+Top: (dummy, Siliang) -->(Siliang, Hengtuo) -->(Hengtuo, Kevin) -->(Kevin, Erik) -->(Erik, Aniss) -->(Aniss, Daniel) -->(Daniel, Diego) -->(Diego, Mohammad) -->
+
+Siliang is being popped from Stack
+Top: (dummy, Hengtuo) -->(Hengtuo, Kevin) -->(Kevin, Erik) -->(Erik, Aniss) -->(Aniss, Daniel) -->(Daniel, Diego) -->(Diego, Mohammad) -->
+
+Yahav is being pushed into stack
+Top: (dummy, Yahav) -->(Yahav, Hengtuo) -->(Hengtuo, Kevin) -->(Kevin, Erik) -->(Erik, Aniss) -->(Aniss, Daniel) -->(Daniel, Diego) -->(Diego, Mohammad) -->
+
+Yahav is being popped from Stack
+Top: (dummy, Hengtuo) -->(Hengtuo, Kevin) -->(Kevin, Erik) -->(Erik, Aniss) -->(Aniss, Daniel) -->(Daniel, Diego) -->(Diego, Mohammad) -->
+
+Gildian is being pushed into stack
+Top: (dummy, Gildian) -->(Gildian, Hengtuo) -->(Hengtuo, Kevin) -->(Kevin, Erik) -->(Erik, Aniss) -->(Aniss, Daniel) -->(Daniel, Diego) -->(Diego, Mohammad) -->
+
+Gildian is being popped from Stack
+Top: (dummy, Hengtuo) -->(Hengtuo, Kevin) -->(Kevin, Erik) -->(Erik, Aniss) -->(Aniss, Daniel) -->(Daniel, Diego) -->(Diego, Mohammad) -->
+
+Hengtuo is being popped from Stack
+Top: (dummy, Kevin) -->(Kevin, Erik) -->(Erik, Aniss) -->(Aniss, Daniel) -->(Daniel, Diego) -->(Diego, Mohammad) -->
+
+Kevin is being popped from Stack
+Top: (dummy, Erik) -->(Erik, Aniss) -->(Aniss, Daniel) -->(Daniel, Diego) -->(Diego, Mohammad) -->
+
+Aviraj is being pushed into stack
+Top: (dummy, Aviraj) -->(Aviraj, Erik) -->(Erik, Aniss) -->(Aniss, Daniel) -->(Daniel, Diego) -->(Diego, Mohammad) -->
+
+Shaxzod is being pushed into stack
+Top: (dummy, Shaxzod) -->(Shaxzod, Aviraj) -->(Aviraj, Erik) -->(Erik, Aniss) -->(Aniss, Daniel) -->(Daniel, Diego) -->(Diego, Mohammad) -->
+
+Imran is being pushed into stack
+Top: (dummy, Imran) -->(Imran, Shaxzod) -->(Shaxzod, Aviraj) -->(Aviraj, Erik) -->(Erik, Aniss) -->(Aniss, Daniel) -->(Daniel, Diego) -->(Diego, Mohammad) -->
+
+Zai is being pushed into stack
+Top: (dummy, Zai) -->(Zai, Imran) -->(Imran, Shaxzod) -->(Shaxzod, Aviraj) -->(Aviraj, Erik) -->(Erik, Aniss) -->(Aniss, Daniel) -->(Daniel, Diego) -->(Diego, Mohammad) -->
+
+Jonathan is being pushed into stack
+Top: (dummy, Jonathan) -->(Jonathan, Zai) -->(Zai, Imran) -->(Imran, Shaxzod) -->(Shaxzod, Aviraj) -->(Aviraj, Erik) -->(Erik, Aniss) -->(Aniss, Daniel) -->(Daniel, Diego) -->(Diego, Mohammad) -->
+
+Sean is being pushed into stack
+Top: (dummy, Sean) -->(Sean, Jonathan) -->(Jonathan, Zai) -->(Zai, Imran) -->(Imran, Shaxzod) -->(Shaxzod, Aviraj) -->(Aviraj, Erik) -->(Erik, Aniss) -->(Aniss, Daniel) -->(Daniel, Diego) -->(Diego, Mohammad) -->
+
+Brandon is being pushed into stack
+Top: (dummy, Brandon) -->(Brandon, Sean) -->(Sean, Jonathan) -->(Jonathan, Zai) -->(Zai, Imran) -->(Imran, Shaxzod) -->(Shaxzod, Aviraj) -->(Aviraj, Erik) -->(Erik, Aniss) -->(Aniss, Daniel) -->(Daniel, Diego) -->(Diego, Mohammad) -->
+
+Juan is being pushed into stack
+Top: (dummy, Juan) -->(Juan, Brandon) -->(Brandon, Sean) -->(Sean, Jonathan) -->(Jonathan, Zai) -->(Zai, Imran) -->(Imran, Shaxzod) -->(Shaxzod, Aviraj) -->(Aviraj, Erik) -->(Erik, Aniss) -->(Aniss, Daniel) -->(Daniel, Diego) -->(Diego, Mohammad) -->
+
+Juan is being popped from Stack
+Top: (dummy, Brandon) -->(Brandon, Sean) -->(Sean, Jonathan) -->(Jonathan, Zai) -->(Zai, Imran) -->(Imran, Shaxzod) -->(Shaxzod, Aviraj) -->(Aviraj, Erik) -->(Erik, Aniss) -->(Aniss, Daniel) -->(Daniel, Diego) -->(Diego, Mohammad) -->
+
+Brandon is being popped from Stack
+Top: (dummy, Sean) -->(Sean, Jonathan) -->(Jonathan, Zai) -->(Zai, Imran) -->(Imran, Shaxzod) -->(Shaxzod, Aviraj) -->(Aviraj, Erik) -->(Erik, Aniss) -->(Aniss, Daniel) -->(Daniel, Diego) -->(Diego, Mohammad) -->
+
+Sean is being popped from Stack
+Top: (dummy, Jonathan) -->(Jonathan, Zai) -->(Zai, Imran) -->(Imran, Shaxzod) -->(Shaxzod, Aviraj) -->(Aviraj, Erik) -->(Erik, Aniss) -->(Aniss, Daniel) -->(Daniel, Diego) -->(Diego, Mohammad) -->
+
+Natasha is being pushed into stack
+Top: (dummy, Natasha) -->(Natasha, Jonathan) -->(Jonathan, Zai) -->(Zai, Imran) -->(Imran, Shaxzod) -->(Shaxzod, Aviraj) -->(Aviraj, Erik) -->(Erik, Aniss) -->(Aniss, Daniel) -->(Daniel, Diego) -->(Diego, Mohammad) -->
+

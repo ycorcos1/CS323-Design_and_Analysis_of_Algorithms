@@ -1,0 +1,141 @@
+Mohammad is being added to the queue
+(dummy, Mohammad) -->
+
+Diego is being added to the queue
+(dummy, Mohammad) -->(Mohammad, Diego) -->
+
+Daniel is being added to the queue
+(dummy, Mohammad) -->(Mohammad, Diego) -->(Diego, Daniel) -->
+
+Alex is being added to the queue
+(dummy, Mohammad) -->(Mohammad, Diego) -->(Diego, Daniel) -->(Daniel, Alex) -->
+
+AlAmin is being added to the queue
+(dummy, Mohammad) -->(Mohammad, Diego) -->(Diego, Daniel) -->(Daniel, Alex) -->(Alex, AlAmin) -->
+
+Cole is being added to the queue
+(dummy, Mohammad) -->(Mohammad, Diego) -->(Diego, Daniel) -->(Daniel, Alex) -->(Alex, AlAmin) -->(AlAmin, Cole) -->
+
+Jia is being added to the queue
+(dummy, Mohammad) -->(Mohammad, Diego) -->(Diego, Daniel) -->(Daniel, Alex) -->(Alex, AlAmin) -->(AlAmin, Cole) -->(Cole, Jia) -->
+
+Mohammad is being deleted
+(dummy, Diego) -->(Diego, Daniel) -->(Daniel, Alex) -->(Alex, AlAmin) -->(AlAmin, Cole) -->(Cole, Jia) -->
+
+Jesse is being added to the queue
+(dummy, Diego) -->(Diego, Daniel) -->(Daniel, Alex) -->(Alex, AlAmin) -->(AlAmin, Cole) -->(Cole, Jia) -->(Jia, Jesse) -->
+
+Diego is being deleted
+(dummy, Daniel) -->(Daniel, Alex) -->(Alex, AlAmin) -->(AlAmin, Cole) -->(Cole, Jia) -->(Jia, Jesse) -->
+
+Asadbek is being added to the queue
+(dummy, Daniel) -->(Daniel, Alex) -->(Alex, AlAmin) -->(AlAmin, Cole) -->(Cole, Jia) -->(Jia, Jesse) -->(Jesse, Asadbek) -->
+
+Daniel is being deleted
+(dummy, Alex) -->(Alex, AlAmin) -->(AlAmin, Cole) -->(Cole, Jia) -->(Jia, Jesse) -->(Jesse, Asadbek) -->
+
+Ryan is being added to the queue
+(dummy, Alex) -->(Alex, AlAmin) -->(AlAmin, Cole) -->(Cole, Jia) -->(Jia, Jesse) -->(Jesse, Asadbek) -->(Asadbek, Ryan) -->
+
+Tsering is being added to the queue
+(dummy, Alex) -->(Alex, AlAmin) -->(AlAmin, Cole) -->(Cole, Jia) -->(Jia, Jesse) -->(Jesse, Asadbek) -->(Asadbek, Ryan) -->(Ryan, Tsering) -->
+
+Alex is being deleted
+(dummy, AlAmin) -->(AlAmin, Cole) -->(Cole, Jia) -->(Jia, Jesse) -->(Jesse, Asadbek) -->(Asadbek, Ryan) -->(Ryan, Tsering) -->
+
+AlAmin is being deleted
+(dummy, Cole) -->(Cole, Jia) -->(Jia, Jesse) -->(Jesse, Asadbek) -->(Asadbek, Ryan) -->(Ryan, Tsering) -->
+
+Cole is being deleted
+(dummy, Jia) -->(Jia, Jesse) -->(Jesse, Asadbek) -->(Asadbek, Ryan) -->(Ryan, Tsering) -->
+
+Jia is being deleted
+(dummy, Jesse) -->(Jesse, Asadbek) -->(Asadbek, Ryan) -->(Ryan, Tsering) -->
+
+Jesse is being deleted
+(dummy, Asadbek) -->(Asadbek, Ryan) -->(Ryan, Tsering) -->
+
+Aniss is being added to the queue
+(dummy, Asadbek) -->(Asadbek, Ryan) -->(Ryan, Tsering) -->(Tsering, Aniss) -->
+
+Erik is being added to the queue
+(dummy, Asadbek) -->(Asadbek, Ryan) -->(Ryan, Tsering) -->(Tsering, Aniss) -->(Aniss, Erik) -->
+
+Kevin is being added to the queue
+(dummy, Asadbek) -->(Asadbek, Ryan) -->(Ryan, Tsering) -->(Tsering, Aniss) -->(Aniss, Erik) -->(Erik, Kevin) -->
+
+Arben is being added to the queue
+(dummy, Asadbek) -->(Asadbek, Ryan) -->(Ryan, Tsering) -->(Tsering, Aniss) -->(Aniss, Erik) -->(Erik, Kevin) -->(Kevin, Arben) -->
+
+David is being added to the queue
+(dummy, Asadbek) -->(Asadbek, Ryan) -->(Ryan, Tsering) -->(Tsering, Aniss) -->(Aniss, Erik) -->(Erik, Kevin) -->(Kevin, Arben) -->(Arben, David) -->
+
+Asadbek is being deleted
+(dummy, Ryan) -->(Ryan, Tsering) -->(Tsering, Aniss) -->(Aniss, Erik) -->(Erik, Kevin) -->(Kevin, Arben) -->(Arben, David) -->
+
+Ryan is being deleted
+(dummy, Tsering) -->(Tsering, Aniss) -->(Aniss, Erik) -->(Erik, Kevin) -->(Kevin, Arben) -->(Arben, David) -->
+
+Hengtuo is being added to the queue
+(dummy, Tsering) -->(Tsering, Aniss) -->(Aniss, Erik) -->(Erik, Kevin) -->(Kevin, Arben) -->(Arben, David) -->(David, Hengtuo) -->
+
+Siliang is being added to the queue
+(dummy, Tsering) -->(Tsering, Aniss) -->(Aniss, Erik) -->(Erik, Kevin) -->(Kevin, Arben) -->(Arben, David) -->(David, Hengtuo) -->(Hengtuo, Siliang) -->
+
+Tsering is being deleted
+(dummy, Aniss) -->(Aniss, Erik) -->(Erik, Kevin) -->(Kevin, Arben) -->(Arben, David) -->(David, Hengtuo) -->(Hengtuo, Siliang) -->
+
+Yahav is being added to the queue
+(dummy, Aniss) -->(Aniss, Erik) -->(Erik, Kevin) -->(Kevin, Arben) -->(Arben, David) -->(David, Hengtuo) -->(Hengtuo, Siliang) -->(Siliang, Yahav) -->
+
+Aniss is being deleted
+(dummy, Erik) -->(Erik, Kevin) -->(Kevin, Arben) -->(Arben, David) -->(David, Hengtuo) -->(Hengtuo, Siliang) -->(Siliang, Yahav) -->
+
+Gildian is being added to the queue
+(dummy, Erik) -->(Erik, Kevin) -->(Kevin, Arben) -->(Arben, David) -->(David, Hengtuo) -->(Hengtuo, Siliang) -->(Siliang, Yahav) -->(Yahav, Gildian) -->
+
+Erik is being deleted
+(dummy, Kevin) -->(Kevin, Arben) -->(Arben, David) -->(David, Hengtuo) -->(Hengtuo, Siliang) -->(Siliang, Yahav) -->(Yahav, Gildian) -->
+
+Kevin is being deleted
+(dummy, Arben) -->(Arben, David) -->(David, Hengtuo) -->(Hengtuo, Siliang) -->(Siliang, Yahav) -->(Yahav, Gildian) -->
+
+Arben is being deleted
+(dummy, David) -->(David, Hengtuo) -->(Hengtuo, Siliang) -->(Siliang, Yahav) -->(Yahav, Gildian) -->
+
+Aviraj is being added to the queue
+(dummy, David) -->(David, Hengtuo) -->(Hengtuo, Siliang) -->(Siliang, Yahav) -->(Yahav, Gildian) -->(Gildian, Aviraj) -->
+
+Shaxzod is being added to the queue
+(dummy, David) -->(David, Hengtuo) -->(Hengtuo, Siliang) -->(Siliang, Yahav) -->(Yahav, Gildian) -->(Gildian, Aviraj) -->(Aviraj, Shaxzod) -->
+
+Imran is being added to the queue
+(dummy, David) -->(David, Hengtuo) -->(Hengtuo, Siliang) -->(Siliang, Yahav) -->(Yahav, Gildian) -->(Gildian, Aviraj) -->(Aviraj, Shaxzod) -->(Shaxzod, Imran) -->
+
+Zai is being added to the queue
+(dummy, David) -->(David, Hengtuo) -->(Hengtuo, Siliang) -->(Siliang, Yahav) -->(Yahav, Gildian) -->(Gildian, Aviraj) -->(Aviraj, Shaxzod) -->(Shaxzod, Imran) -->(Imran, Zai) -->
+
+Jonathan is being added to the queue
+(dummy, David) -->(David, Hengtuo) -->(Hengtuo, Siliang) -->(Siliang, Yahav) -->(Yahav, Gildian) -->(Gildian, Aviraj) -->(Aviraj, Shaxzod) -->(Shaxzod, Imran) -->(Imran, Zai) -->(Zai, Jonathan) -->
+
+Sean is being added to the queue
+(dummy, David) -->(David, Hengtuo) -->(Hengtuo, Siliang) -->(Siliang, Yahav) -->(Yahav, Gildian) -->(Gildian, Aviraj) -->(Aviraj, Shaxzod) -->(Shaxzod, Imran) -->(Imran, Zai) -->(Zai, Jonathan) -->(Jonathan, Sean) -->
+
+Brandon is being added to the queue
+(dummy, David) -->(David, Hengtuo) -->(Hengtuo, Siliang) -->(Siliang, Yahav) -->(Yahav, Gildian) -->(Gildian, Aviraj) -->(Aviraj, Shaxzod) -->(Shaxzod, Imran) -->(Imran, Zai) -->(Zai, Jonathan) -->(Jonathan, Sean) -->(Sean, Brandon) -->
+
+Juan is being added to the queue
+(dummy, David) -->(David, Hengtuo) -->(Hengtuo, Siliang) -->(Siliang, Yahav) -->(Yahav, Gildian) -->(Gildian, Aviraj) -->(Aviraj, Shaxzod) -->(Shaxzod, Imran) -->(Imran, Zai) -->(Zai, Jonathan) -->(Jonathan, Sean) -->(Sean, Brandon) -->(Brandon, Juan) -->
+
+David is being deleted
+(dummy, Hengtuo) -->(Hengtuo, Siliang) -->(Siliang, Yahav) -->(Yahav, Gildian) -->(Gildian, Aviraj) -->(Aviraj, Shaxzod) -->(Shaxzod, Imran) -->(Imran, Zai) -->(Zai, Jonathan) -->(Jonathan, Sean) -->(Sean, Brandon) -->(Brandon, Juan) -->
+
+Hengtuo is being deleted
+(dummy, Siliang) -->(Siliang, Yahav) -->(Yahav, Gildian) -->(Gildian, Aviraj) -->(Aviraj, Shaxzod) -->(Shaxzod, Imran) -->(Imran, Zai) -->(Zai, Jonathan) -->(Jonathan, Sean) -->(Sean, Brandon) -->(Brandon, Juan) -->
+
+Siliang is being deleted
+(dummy, Yahav) -->(Yahav, Gildian) -->(Gildian, Aviraj) -->(Aviraj, Shaxzod) -->(Shaxzod, Imran) -->(Imran, Zai) -->(Zai, Jonathan) -->(Jonathan, Sean) -->(Sean, Brandon) -->(Brandon, Juan) -->
+
+Natasha is being added to the queue
+(dummy, Yahav) -->(Yahav, Gildian) -->(Gildian, Aviraj) -->(Aviraj, Shaxzod) -->(Shaxzod, Imran) -->(Imran, Zai) -->(Zai, Jonathan) -->(Jonathan, Sean) -->(Sean, Brandon) -->(Brandon, Juan) -->(Juan, Natasha) -->
+
