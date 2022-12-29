@@ -1,8 +1,0 @@
-
-HashTable[0]: (dummy Paul) -->(Paul Iris) -->(Iris David) -->(David null)
-HashTable[1]: (dummy Mike) -->(Mike Allen) -->(Allen null)
-HashTable[2]: (dummy null)
-HashTable[3]: (dummy Chris) -->(Chris Adam) -->(Adam null)
-HashTable[4]: (dummy null)
-HashTable[5]: (dummy Victor) -->(Victor Teddy) -->(Teddy Bern) -->(Bern null)
-HashTable[6]: (dummy Yoni) -->(Yoni Michael) -->(Michael null)
