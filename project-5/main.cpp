@@ -1,3 +1,9 @@
+/*
+Yahav Corcos
+Professor Phillips
+CS323 Project 5 - Quadtrees
+October 23, 2022
+*/
 #include<iostream>
 #include<fstream>
 #include<string>
