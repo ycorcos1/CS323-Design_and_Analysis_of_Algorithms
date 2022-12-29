@@ -1,0 +1,8 @@
+
+HashTable[0]: (dummy Paul) -->(Paul Kevin) -->(Kevin null)
+HashTable[1]: (dummy Oliver) -->(Oliver null)
+HashTable[2]: (dummy null)
+HashTable[3]: (dummy Adam) -->(Adam null)
+HashTable[4]: (dummy Charles) -->(Charles null)
+HashTable[5]: (dummy James) -->(James Henry) -->(Henry null)
+HashTable[6]: (dummy Richard) -->(Richard Michael) -->(Michael Ivan) -->(Ivan null)
