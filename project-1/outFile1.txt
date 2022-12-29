@@ -1,3 +1,5 @@
+// LinkedList Implementation of Stack
+
 Mohammad is being pushed into stack
 Top: (dummy, Mohammad) -->
 
