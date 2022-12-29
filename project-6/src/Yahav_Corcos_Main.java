@@ -1,3 +1,9 @@
+/*
+Yahav Corcos
+Professor Phillips
+CS323 Project 6 - Dijkstra's Algorithm
+November 30, 2022
+*/
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.FileReader;
