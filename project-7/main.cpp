@@ -1,3 +1,9 @@
+/*
+Yahav Corcos
+Professor Phillips
+CS323 Project 7 - Prim's MST
+November 14, 2022
+*/
 #include<fstream>
 #include<cstdlib>
 #include<iostream>
