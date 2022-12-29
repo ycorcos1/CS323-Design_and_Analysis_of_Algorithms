@@ -1,0 +1,250 @@
+
+-------Enter informationProcessing method-------
+Operation: + Data: Tom
+Data is going into bucket: 1
+Before operation execution, printing bucket: 1
+HashTable[1]: (dummy null)
+*** enter hashInsert method. Performing hashInsert
+After hashInsert operation ...
+HashTable[1]: (dummy Tom) -->(Tom null)
+
+-------Enter informationProcessing method-------
+Operation: + Data: Adam
+Data is going into bucket: 3
+Before operation execution, printing bucket: 3
+HashTable[3]: (dummy null)
+*** enter hashInsert method. Performing hashInsert
+After hashInsert operation ...
+HashTable[3]: (dummy Adam) -->(Adam null)
+
+-------Enter informationProcessing method-------
+Operation: ? Data: Sean
+Data is going into bucket: 3
+Before operation execution, printing bucket: 3
+HashTable[3]: (dummy Adam) -->(Adam null)
+*** Inside hashRetrieval. Performing hashRetrieval
+*** Warning, the record is *not* in the database!
+
+-------Enter informationProcessing method-------
+Operation: + Data: Michael
+Data is going into bucket: 6
+Before operation execution, printing bucket: 6
+HashTable[6]: (dummy null)
+*** enter hashInsert method. Performing hashInsert
+After hashInsert operation ...
+HashTable[6]: (dummy Michael) -->(Michael null)
+
+-------Enter informationProcessing method-------
+Operation: - Data: Tom
+Data is going into bucket: 1
+Before operation execution, printing bucket: 1
+HashTable[1]: (dummy Tom) -->(Tom null)
+** Inside hashDelete method. Performing hashDelete
+After hashDelete operation ...
+HashTable[1]: (dummy null)
+
+-------Enter informationProcessing method-------
+Operation: - Data: Tim
+Data is going into bucket: 5
+Before operation execution, printing bucket: 5
+HashTable[5]: (dummy null)
+** Inside hashDelete method. Performing hashDelete
+*** Warning: data is *not* in the database!
+
+-------Enter informationProcessing method-------
+Operation: $ Data: Yahav
+Data is going into bucket: 0
+Before operation execution, printing bucket: 0
+HashTable[0]: (dummy null)
+op is an unrecognized operation!
+
+-------Enter informationProcessing method-------
+Operation: + Data: Yoni
+Data is going into bucket: 6
+Before operation execution, printing bucket: 6
+HashTable[6]: (dummy Michael) -->(Michael null)
+*** enter hashInsert method. Performing hashInsert
+After hashInsert operation ...
+HashTable[6]: (dummy Yoni) -->(Yoni Michael) -->(Michael null)
+
+-------Enter informationProcessing method-------
+Operation: + Data: Iris
+Data is going into bucket: 0
+Before operation execution, printing bucket: 0
+HashTable[0]: (dummy null)
+*** enter hashInsert method. Performing hashInsert
+After hashInsert operation ...
+HashTable[0]: (dummy Iris) -->(Iris null)
+
+-------Enter informationProcessing method-------
+Operation: + Data: Victor
+Data is going into bucket: 5
+Before operation execution, printing bucket: 5
+HashTable[5]: (dummy null)
+*** enter hashInsert method. Performing hashInsert
+After hashInsert operation ...
+HashTable[5]: (dummy Victor) -->(Victor null)
+
+-------Enter informationProcessing method-------
+Operation: ? Data: Adam
+Data is going into bucket: 3
+Before operation execution, printing bucket: 3
+HashTable[3]: (dummy Adam) -->(Adam null)
+*** Inside hashRetrieval. Performing hashRetrieval
+Yes, the record is in the database!
+
+-------Enter informationProcessing method-------
+Operation: - Data: Larry
+Data is going into bucket: 4
+Before operation execution, printing bucket: 4
+HashTable[4]: (dummy null)
+** Inside hashDelete method. Performing hashDelete
+*** Warning: data is *not* in the database!
+
+-------Enter informationProcessing method-------
+Operation: + Data: Allen
+Data is going into bucket: 1
+Before operation execution, printing bucket: 1
+HashTable[1]: (dummy null)
+*** enter hashInsert method. Performing hashInsert
+After hashInsert operation ...
+HashTable[1]: (dummy Allen) -->(Allen null)
+
+-------Enter informationProcessing method-------
+Operation: - Data: James
+Data is going into bucket: 5
+Before operation execution, printing bucket: 5
+HashTable[5]: (dummy Victor) -->(Victor null)
+** Inside hashDelete method. Performing hashDelete
+*** Warning: data is *not* in the database!
+
+-------Enter informationProcessing method-------
+Operation: + Data: Teddy
+Data is going into bucket: 5
+Before operation execution, printing bucket: 5
+HashTable[5]: (dummy Victor) -->(Victor null)
+*** enter hashInsert method. Performing hashInsert
+After hashInsert operation ...
+HashTable[5]: (dummy Victor) -->(Victor Teddy) -->(Teddy null)
+
+-------Enter informationProcessing method-------
+Operation: + Data: Bern
+Data is going into bucket: 5
+Before operation execution, printing bucket: 5
+HashTable[5]: (dummy Victor) -->(Victor Teddy) -->(Teddy null)
+*** enter hashInsert method. Performing hashInsert
+After hashInsert operation ...
+HashTable[5]: (dummy Victor) -->(Victor Teddy) -->(Teddy Bern) -->(Bern null)
+
+-------Enter informationProcessing method-------
+Operation: * Data: Ethan
+Data is going into bucket: 1
+Before operation execution, printing bucket: 1
+HashTable[1]: (dummy Allen) -->(Allen null)
+op is an unrecognized operation!
+
+-------Enter informationProcessing method-------
+Operation: + Data: David
+Data is going into bucket: 0
+Before operation execution, printing bucket: 0
+HashTable[0]: (dummy Iris) -->(Iris null)
+*** enter hashInsert method. Performing hashInsert
+After hashInsert operation ...
+HashTable[0]: (dummy Iris) -->(Iris David) -->(David null)
+
+-------Enter informationProcessing method-------
+Operation: ? Data: Sabina
+Data is going into bucket: 0
+Before operation execution, printing bucket: 0
+HashTable[0]: (dummy Iris) -->(Iris David) -->(David null)
+*** Inside hashRetrieval. Performing hashRetrieval
+*** Warning, the record is *not* in the database!
+
+-------Enter informationProcessing method-------
+Operation: * Data: Jeffrey
+Data is going into bucket: 3
+Before operation execution, printing bucket: 3
+HashTable[3]: (dummy Adam) -->(Adam null)
+op is an unrecognized operation!
+
+-------Enter informationProcessing method-------
+Operation: - Data: Omar
+Data is going into bucket: 5
+Before operation execution, printing bucket: 5
+HashTable[5]: (dummy Victor) -->(Victor Teddy) -->(Teddy Bern) -->(Bern null)
+** Inside hashDelete method. Performing hashDelete
+*** Warning: data is *not* in the database!
+
+-------Enter informationProcessing method-------
+Operation: + Data: Paul
+Data is going into bucket: 0
+Before operation execution, printing bucket: 0
+HashTable[0]: (dummy Iris) -->(Iris David) -->(David null)
+*** enter hashInsert method. Performing hashInsert
+After hashInsert operation ...
+HashTable[0]: (dummy Paul) -->(Paul Iris) -->(Iris David) -->(David null)
+
+-------Enter informationProcessing method-------
+Operation: + Data: Mike
+Data is going into bucket: 1
+Before operation execution, printing bucket: 1
+HashTable[1]: (dummy Allen) -->(Allen null)
+*** enter hashInsert method. Performing hashInsert
+After hashInsert operation ...
+HashTable[1]: (dummy Mike) -->(Mike Allen) -->(Allen null)
+
+-------Enter informationProcessing method-------
+Operation: - Data: Nas
+Data is going into bucket: 2
+Before operation execution, printing bucket: 2
+HashTable[2]: (dummy null)
+** Inside hashDelete method. Performing hashDelete
+*** Warning: data is *not* in the database!
+
+-------Enter informationProcessing method-------
+Operation: - Data: Gary
+Data is going into bucket: 6
+Before operation execution, printing bucket: 6
+HashTable[6]: (dummy Yoni) -->(Yoni Michael) -->(Michael null)
+** Inside hashDelete method. Performing hashDelete
+*** Warning: data is *not* in the database!
+
+-------Enter informationProcessing method-------
+Operation: ? Data: Andrew
+Data is going into bucket: 1
+Before operation execution, printing bucket: 1
+HashTable[1]: (dummy Mike) -->(Mike Allen) -->(Allen null)
+*** Inside hashRetrieval. Performing hashRetrieval
+*** Warning, the record is *not* in the database!
+
+-------Enter informationProcessing method-------
+Operation: ? Data: Akira
+Data is going into bucket: 5
+Before operation execution, printing bucket: 5
+HashTable[5]: (dummy Victor) -->(Victor Teddy) -->(Teddy Bern) -->(Bern null)
+*** Inside hashRetrieval. Performing hashRetrieval
+*** Warning, the record is *not* in the database!
+
+-------Enter informationProcessing method-------
+Operation: ^ Data: Rik
+Data is going into bucket: 6
+Before operation execution, printing bucket: 6
+HashTable[6]: (dummy Yoni) -->(Yoni Michael) -->(Michael null)
+op is an unrecognized operation!
+
+-------Enter informationProcessing method-------
+Operation: - Data: Franck
+Data is going into bucket: 3
+Before operation execution, printing bucket: 3
+HashTable[3]: (dummy Adam) -->(Adam null)
+** Inside hashDelete method. Performing hashDelete
+*** Warning: data is *not* in the database!
+
+-------Enter informationProcessing method-------
+Operation: + Data: Chris
+Data is going into bucket: 3
+Before operation execution, printing bucket: 3
+HashTable[3]: (dummy Adam) -->(Adam null)
+*** enter hashInsert method. Performing hashInsert
+After hashInsert operation ...
+HashTable[3]: (dummy Chris) -->(Chris Adam) -->(Adam null)
