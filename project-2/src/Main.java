@@ -1,3 +1,9 @@
+/*
+Yahav Corcos
+Professor Phillips
+CS323 Project 2 - LinkedList Implementation of Hashtable
+September 12, 2022
+*/
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.FileReader;
