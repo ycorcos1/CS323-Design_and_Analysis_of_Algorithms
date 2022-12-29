@@ -1,3 +1,9 @@
+/*
+Yahav Corcos
+Professor Phillips
+CS323 Project 4 - Huffman Coding Part 2
+October 14, 2022
+*/
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.FileReader;
