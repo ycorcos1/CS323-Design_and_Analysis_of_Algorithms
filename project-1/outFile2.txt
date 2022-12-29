@@ -1,3 +1,5 @@
+// LinkedList Implementation of Queue
+
 Mohammad is being added to the queue
 (dummy, Mohammad) -->
 
