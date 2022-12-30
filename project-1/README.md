@@ -5,10 +5,10 @@ Operations include:
  2) Deletion
  3) Print
 
-The input file contains a list of pair {<op, data>} where op is either + or -, where + means insert, - means delete, and data is a character string.
+The input file contains a list of pair {<op, data>} where op is either + or -, where + means insert, - means delete, and data is a character string.  
   (i.e. + Tom, means insert Tom, - Tom means delete Tom. However, the data will not be used after delete operation.)
   
 Program will construct a stack, then, a queue, all in linked list implementations. Reading from the input pairs, your program will perform operations, given by the pairs, on the Stack. Then, reading the same input pairs, program will perform operations on a queue.
 
-Input: A text file contain a list of pair {<op, data>} | 
+Input: A text file contain a list of pair {<op, data>}  
 Outputs: 1) outFile1 for Stack outputs 2) outFile2 for Queue outputs
