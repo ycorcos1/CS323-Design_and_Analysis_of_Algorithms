@@ -9,4 +9,5 @@ Summary of this project:
     b) In-order
     c) Post-order
     
-Input: A text file containing English language | Output: 1) outFile1: All outputs the program produces.
+Input: A text file containing English language  
+Output: 1) outFile1: All outputs the program produces.
